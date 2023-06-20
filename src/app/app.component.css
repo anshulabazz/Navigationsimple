@@ -1,0 +1,59 @@
+header {
+  background-color: #FFA500;
+  transition: background-color 0.4s ease-in-out;
+}
+.header_change {
+  background-color: white;
+}
+
+.navbar-collapse{
+    margin-left: 2.5em;
+}
+.navbtn{
+   margin-right:5em;
+    margin-top: 0.7em;
+    
+}
+.navbtn .first{
+    margin-right:2em;
+    background-color:white;
+    color:black;
+}
+
+.navbtn .second{
+    background-color:black;
+    color:white;
+}
+
+.navbar-brand{
+    margin-left:1em;
+}
+.section1 {
+  height: 90vh;
+  background-color: #FFA500;
+}
+.main-section {
+  
+    align-content:space-around;
+
+  }
+.main-section p{
+  font-size:70px;
+  color:white;
+  font-weight:bold;
+  margin-left: 2em;
+  margin-right:5em;
+
+}
+
+.main-section img {
+  margin-right:5em;
+  height:35em;
+  overflow:hidden;
+  float:right;
+}
+.section2 {
+  height: 50vh;
+  background-color: black;
+}
+
