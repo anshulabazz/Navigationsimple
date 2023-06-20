@@ -3,9 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\side-nav",
+    "\\src\\app\\footer",
     "\\src\\app\\side-nav-content"
   ],
-  "SelectedNode": "\\src\\app\\navigation.service.ts",
+  "SelectedNode": "\\src\\app\\footer\\footer.component.ts",
   "PreviewInSolutionExplorer": false
 }
